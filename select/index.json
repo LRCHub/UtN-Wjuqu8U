@@ -1,0 +1,96 @@
+{
+  "version": 1,
+  "base_track": "ドキメキダイアリー",
+  "base_artist": "asmi",
+  "createdAt": "2025-12-14T14:57:41.063354Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "ドキメキダイアリー",
+      "artist": "asmi feat. Chinozo",
+      "has_synced": true,
+      "path": "select/01_ドキメキダイアリー_asmi_feat._Chinozo.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "ドキメキダイアリー (feat. Chinozo)",
+      "artist": "asmi",
+      "has_synced": true,
+      "path": "select/02_ドキメキダイアリー_(feat._Chinozo)_asmi.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "ドキメキダイアリー - asmi feat. Chinozo (Official Music Video)",
+      "artist": "asmi Official Channel",
+      "has_synced": true,
+      "path": "select/03_ドキメキダイアリー_-_asmi_feat._Chinozo_(Official_Music_Video)_asmi_Official_Channel.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "ドキメキダイアリー (Anime Size)",
+      "artist": "asmi feat. Chinozo",
+      "has_synced": true,
+      "path": "select/04_ドキメキダイアリー_(Anime_Size)_asmi_feat._Chinozo.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "ドキメキダイアリー feat. Chinozo",
+      "artist": "asmi",
+      "has_synced": true,
+      "path": "select/05_ドキメキダイアリー_feat._Chinozo_asmi.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "ドキメキダイアリー (Anime Size) feat. Chinozo",
+      "artist": "asmi",
+      "has_synced": true,
+      "path": "select/06_ドキメキダイアリー_(Anime_Size)_feat._Chinozo_asmi.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "ドキメキダイアリー (Instrumental)",
+      "artist": "asmi",
+      "has_synced": true,
+      "path": "select/07_ドキメキダイアリー_(Instrumental)_asmi.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "ドキメキダイアリー - Dokimeki Diary (feat. Chinozo)",
+      "artist": "asmi",
+      "has_synced": true,
+      "path": "select/08_ドキメキダイアリー_-_Dokimeki_Diary_(feat._Chinozo)_asmi.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "ドキメキダイアリー",
+      "artist": "asmi",
+      "has_synced": true,
+      "path": "select/09_ドキメキダイアリー_asmi.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "ドキメキダイアリー - Anime Size",
+      "artist": "asmi",
+      "has_synced": true,
+      "path": "select/10_ドキメキダイアリー_-_Anime_Size_asmi.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "ドキメキダイアリー",
+      "artist": "asmi, Chinozo",
+      "has_synced": false,
+      "path": "select/pl_01_ドキメキダイアリー_asmi,_Chinozo.txt"
+    }
+  ]
+}
